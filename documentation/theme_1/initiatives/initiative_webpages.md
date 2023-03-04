@@ -1,5 +1,5 @@
 # Initiative: Create a user-friendly interface for the website
-
+<!--fix the description -->
 ## Description: 
 This initiative aims to design and develop a 
 
@@ -30,7 +30,7 @@ This initiative aims to design and develop a
 
 ## Assumptions: 
 * Assumptions on whether team understands and are effective at working as a team to ge tthe project done
-
+<!--finish the Risk -->
 ## Risks: 
 * The length of the 
 
