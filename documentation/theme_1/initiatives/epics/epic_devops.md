@@ -40,4 +40,4 @@ The CI/CD environment is critical to the timely and reliable delivery of the web
 Very High - 100%
 
 # List stories related to this theme
-1. [Incorporating Continuous Integration](user_stories/story_devops.md)
+1. [Incorporating Continuous Integration](/user_stories/story_devops.md)
