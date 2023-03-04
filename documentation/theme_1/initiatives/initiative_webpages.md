@@ -30,9 +30,9 @@ This initiative aims to design and develop a modern user-interface that is respo
 
 ## Assumptions: 
 * Assumptions on whether team understands and are effective at working as a team to ge tthe project done
-<!--finish the Risk -->
+
 ## Risks: 
-* The length of the 
+* The length of the which it takes to develop the website may take longer
 
 ## Dependencies: 
 * Out-Sources libraries such as Auth0 and servers that are depended on when creating this project
