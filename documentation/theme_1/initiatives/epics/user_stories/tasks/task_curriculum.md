@@ -9,6 +9,7 @@ Create a series of study plan videos to help users plan and organize their learn
 ## Effort Estimate: 
 Estimated effort for creating a study plan video is around 5-7 hours per video, including scripting, recording, editing, and post-production.
 
+
 ## Assigned To: 
 Tejkumar Patel
 
