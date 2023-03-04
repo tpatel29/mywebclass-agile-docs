@@ -1,4 +1,4 @@
-# Epic: 
+# Epic: Creating a CI/CD environment
 <!--add the Title to fit the format -->
 ## Description:
 The epic is focused on creating a CI/CD environment for the website development project. The goal is to automate the software delivery process, increase the quality and reliability of the website, and enable frequent and consistent releases.
