@@ -1,18 +1,22 @@
 # Theme 1.0: Project Setup
 ## Overview
-Our objective is to establish a highly visible web presence using lean and agile principles to quickly and effectively
-develop a strong foundation for our web project. By completing the initiatives outlined in this theme, we can establish a
-solid foundation that ensures our web page meets our business requirements throughout the life of the project, setting
-us up for long-term success.
+The main goal of the "mywebclass.org" project is to provide a platform for users to learn different technologies and gain practical experience. The website will feature a variety of courses, tutorials, and projects that will teach users about various web development technologies, such as HTML, CSS, JavaScript, and more.
 ## Initiative(s)
 
-* [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
-* [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_devops.md)
-* [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
-
-* Monitoring to continuously improve the quality of our project
-  * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
-  * Project metrics to continuously improve the management of the project
+* [Develop a comprehensive curriculum for web development technologies.](initiatives/initiative_curriculum.md)
+* [Create a user-friendly interface for the website.](initiatives/initiative_webpages.md)
+* [Creating a Continuous Integration/ Continous Deployment Setup With DevOps](initiatives/initiative_devops.md)
 
 ## Test plan
-How will this be tested?
+* User Acceptance Testing (UAT): UAT involves selecting a group of representative users and having them test the website to ensure that it meets their needs and expectations. Users can provide feedback on the website's functionality, design, and ease of use.
+
+* Usability Testing: Usability testing involves selecting a group of users and having them perform specific tasks on the website while being observed. This method can reveal areas of the website that are difficult to use, confusing, or frustrating for users.
+
+* Performance Testing: Performance testing involves testing the website's response time and load capacity to ensure that it can handle the expected user traffic.
+
+* Compatibility Testing: Compatibility testing involves testing the website's compatibility with different browsers, devices, and operating systems.
+
+* Security Testing: Security testing involves testing the website's security measures to ensure that user data is protected and the website is not vulnerable to attacks.
+
+* Accessibility Testing: Accessibility testing involves testing the website's accessibility to ensure that it is usable by people with disabilities.
+
