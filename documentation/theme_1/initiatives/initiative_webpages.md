@@ -1,7 +1,7 @@
 # Initiative: Create a user-friendly interface for the website
-<!--fix the description -->
+
 ## Description: 
-This initiative aims to design and develop a 
+This initiative aims to design and develop a modern user-interface that is responsive and user-friendly
 
 ## Goals:
 * Develop a modern and user-friendly website design.
