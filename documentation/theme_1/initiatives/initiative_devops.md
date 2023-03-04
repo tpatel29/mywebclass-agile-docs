@@ -1,5 +1,5 @@
-# Creating a Continuous Integration/ Continous Deployment Setup With DevOps
-<!--fix spelling on word "continous" -->
+# Creating a Continuous Integration/ Continuous Deployment Setup With DevOps
+
 ## Description:
 * The initiative is focused on creating a Continuous Integration/Continuous Deployment (CI/CD) setup with DevOps for a software development project. The aim is to automate the software build, test, and deployment process to improve the speed, quality, and efficiency of software development. This initiative requires collaboration between developers, testers, and operations teams to integrate and automate the development process.
 
